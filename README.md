@@ -1,4 +1,4 @@
-## Hi there, I'm Vedant Gabani 👋
+## Hello there, I'm Vedant Gabani 👋
 <a href="https://www.linkedin.com/in/vedant-gabani-b80ba9134">
   <img align="left" alt="Vedant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

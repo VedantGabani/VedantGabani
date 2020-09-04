@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi there, I'm Vedant Gabani 👋
+<a href="https://www.linkedin.com/in/vedant-gabani-b80ba9134">
+  <img align="left" alt="Vedant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/VedantGabani">
+  <img align="left" alt="Vedant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<!--
-**VedantGabani/VedantGabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/vedant.001/">
+  <img align="left" alt="Vedant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/vedantgabani5">
+  <img align="left" alt="Vedant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a><br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+<a href="https://github.com/VedantGabani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGabani&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/VedantGabani">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantGabani&show_icons=true&theme=light&line_height=27" alt="Vedant's github stats"/>
+</a>
+<a href="https://github.com/VedantGabani/Quiz-Application-using-Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=light" />
+</a>
+<a href="https://github.com/VedantGabani/Student-Career-Area-Prediction">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Student-Career-Area-Prediction" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+

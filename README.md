@@ -26,16 +26,16 @@
 
 
 <a href="https://github.com/VedantGabani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGabani&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGabani&theme=vue-dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/VedantGabani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantGabani&show_icons=true&theme=light&line_height=27" alt="Vedant's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantGabani&show_icons=true&theme=vue-dark&line_height=27&include_all_commits=true" alt="Vedant's github stats"/>
 </a>
 <a href="https://github.com/VedantGabani/Quiz-Application-using-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=vue-dark" />
 </a>
 <a href="https://github.com/VedantGabani/Student-Career-Area-Prediction">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Student-Career-Area-Prediction" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Student-Career-Area-Prediction&theme=vue-dark" />
 </a>
 
 <div align="center">

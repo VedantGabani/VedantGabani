@@ -32,10 +32,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantGabani&show_icons=true&theme=vue-dark&line_height=27&include_all_commits=true" alt="Vedant's github stats"/>
 </a>
 <a href="https://github.com/VedantGabani/Quiz-Application-using-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=buefy" />
 </a>
 <a href="https://github.com/VedantGabani/Student-Career-Area-Prediction">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Student-Career-Area-Prediction&theme=vue-dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Student-Career-Area-Prediction&theme=buefy" />
 </a>
 
 <div align="center">

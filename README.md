@@ -31,6 +31,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantGabani&show_icons=true&theme=buefy&line_height=21&include_all_commits=true" alt="Vedant's github stats"/>
 </a>
 <br/>
+<br/>
+<br/>
 <a href="https://github.com/VedantGabani/Quiz-Application-using-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantGabani&repo=Quiz-Application-using-Flutter&theme=buefy" />
 </a>
